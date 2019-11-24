@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: de.nightara.solaris:Core:1.0">
+    <CLASSES>
+      <root url="jar://D:/Java/Maven/de/nightara/solaris/Core/1.0/Core-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Java/Maven/de/nightara/solaris/Core/1.0/Core-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Java/Maven/de/nightara/solaris/Core/1.0/Core-1.0-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Core/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

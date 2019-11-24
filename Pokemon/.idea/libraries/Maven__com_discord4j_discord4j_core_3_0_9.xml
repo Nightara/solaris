@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.discord4j:discord4j-core:3.0.9">
+    <CLASSES>
+      <root url="jar://D:/Java/Maven/com/discord4j/discord4j-core/3.0.9/discord4j-core-3.0.9.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Java/Maven/com/discord4j/discord4j-core/3.0.9/discord4j-core-3.0.9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Java/Maven/com/discord4j/discord4j-core/3.0.9/discord4j-core-3.0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

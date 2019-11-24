@@ -1,0 +1,15 @@
+# Created at 2019-09-30T23:13:48.409
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2019-09-30T23:13:48.410
+WARNING: Illegal reflective access by org.jooq.tools.reflect.Reflect (file:/D:/Java/Maven/org/jooq/jooq/3.11.7/jooq-3.11.7.jar) to constructor java.lang.invoke.MethodHandles$Lookup(java.lang.Class)
+
+# Created at 2019-09-30T23:13:48.411
+WARNING: Please consider reporting this to the maintainers of org.jooq.tools.reflect.Reflect
+
+# Created at 2019-09-30T23:13:48.415
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2019-09-30T23:13:48.418
+WARNING: All illegal access operations will be denied in a future release
+

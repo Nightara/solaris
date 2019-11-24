@@ -1,0 +1,14 @@
+de\nightara\solaris\joy\game\BerryGame.class
+de\nightara\solaris\joy\game\mine\Zone.class
+de\nightara\solaris\joy\game\mine\Position.class
+de\nightara\solaris\joy\game\mine\Position$Direction.class
+de\nightara\solaris\joy\game\mine\MineGame.class
+de\nightara\solaris\joy\Joy.class
+de\nightara\solaris\joy\connect\StreamDetector.class
+de\nightara\solaris\joy\game\mine\MineUser$1.class
+de\nightara\solaris\joy\game\Game.class
+de\nightara\solaris\joy\game\mine\MineUser$Action.class
+de\nightara\solaris\joy\game\mine\MineUser$Role.class
+de\nightara\solaris\joy\game\GameModifier.class
+de\nightara\solaris\joy\game\mine\MineUser.class
+de\nightara\solaris\joy\game\QuicktimeSpawner.class

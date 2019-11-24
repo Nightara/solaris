@@ -1,0 +1,19 @@
+<Configuration>
+  <Appenders>
+    <Console name="ConsoleOut" target="SYSTEM_OUT">
+      <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level - %msg%n" />
+      <ThresholdFilter level="ERROR" onMatch="DENY" onMismatch="ACCEPT" />
+    </Console>
+    <Console name="ConsoleErr" target="SYSTEM_ERR">
+      <PatternLayout pattern="%highlight{%d{HH:mm:ss.SSS} [%t] %-5level - %msg%n}" />
+      <ThresholdFilter level="ERROR" onMatch="ACCEPT" onMismatch="DENY" />
+    </Console>
+  </Appenders>
+  <Loggers>
+    <Root>
+      <Level>INFO</Level>
+      <AppenderRef ref="ConsoleOut" />
+      <AppenderRef ref="ConsoleErr" />
+    </Root>
+  </Loggers>
+</Configuration>
