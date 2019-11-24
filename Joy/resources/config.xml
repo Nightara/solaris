@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <properties>
-  <entry key="loginToken">MzI0ODc5NDUzMTY1NTg0Mzg1.DCSDLw.EurJCPJ24DRcHOSUDNCZB3DuEIk</entry>
-  <entry key="guildId">511226485340766228</entry>
+  <entry key="loginToken">XXX</entry>
+  <entry key="guildId">0</entry>
   <entry key="statusMessage">Hello World!</entry>
 </properties>
